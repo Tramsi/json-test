@@ -1,96 +1,20 @@
 {
-  "_id": "5ea8c869d7c5de203463948e",
   "title": "Numbers Speak",
   "speaking_numbers": [
     {
-      "_id": "5ea8c869d7c5de203463948f",
       "title": "Campaigns",
       "number": "66000",
-      "createdAt": "2020-04-29T00:20:57.575Z",
-      "updatedAt": "2020-05-23T09:59:45.582Z",
-      "__v": 0,
       "id": "5ea8c869d7c5de203463948f"
     },
     {
-      "_id": "5ea8c869d7c5de2034639490",
       "title": "Donations",
       "number": "3300",
-      "createdAt": "2020-04-29T00:20:57.575Z",
-      "updatedAt": "2020-05-23T09:59:45.581Z",
-      "__v": 0,
       "id": "5ea8c869d7c5de2034639490"
     },
     {
-      "_id": "5ea8c869d7c5de2034639491",
       "title": "Volunteers",
       "number": "70 ",
-      "createdAt": "2020-04-29T00:20:57.575Z",
-      "updatedAt": "2020-05-23T09:59:45.577Z",
-      "__v": 0,
       "id": "5ea8c869d7c5de2034639491"
     },
-    {
-      "_id": "5ea8c869d7c5de2034639492",
-      "title": "Funds Raised",
-      "number": "88000",
-      "createdAt": "2020-04-29T00:20:57.575Z",
-      "updatedAt": "2020-05-23T09:59:45.579Z",
-      "__v": 0,
-      "id": "5ea8c869d7c5de2034639492"
-    }
-  ],
-  "createdAt": "2020-04-29T00:20:57.456Z",
-  "updatedAt": "2020-05-23T09:59:45.784Z",
-  "__v": 1,
-  "image_background": {
-    "_id": "5eb89b520e79a21caf96f709",
-    "name": "article-image2_5d2262a3fe",
-    "alternativeText": "",
-    "caption": "",
-    "hash": "article-image2_5d2262a3fe_ba31def413",
-    "ext": ".jpeg",
-    "mime": "image/jpeg",
-    "size": 84.76,
-    "width": 960,
-    "height": 640,
-    "url": "https://s3.m3ntorship.net/charity-cms-dev/article-image2_5d2262a3fe_ba31def413.jpeg",
-    "formats": {
-      "thumbnail": {
-        "hash": "thumbnail_article-image2_5d2262a3fe_ba31def413",
-        "ext": ".jpeg",
-        "mime": "image/jpeg",
-        "width": 234,
-        "height": 156,
-        "size": 9.65,
-        "url": "https://charity-cms-dev.s3.eu-central-1.amazonaws.com/thumbnail_article-image2_5d2262a3fe_ba31def413.jpeg"
-      },
-      "medium": {
-        "hash": "medium_article-image2_5d2262a3fe_ba31def413",
-        "ext": ".jpeg",
-        "mime": "image/jpeg",
-        "width": 750,
-        "height": 500,
-        "size": 58.21,
-        "url": "https://charity-cms-dev.s3.eu-central-1.amazonaws.com/medium_article-image2_5d2262a3fe_ba31def413.jpeg"
-      },
-      "small": {
-        "hash": "small_article-image2_5d2262a3fe_ba31def413",
-        "ext": ".jpeg",
-        "mime": "image/jpeg",
-        "width": 500,
-        "height": 333,
-        "size": 31.4,
-        "url": "https://charity-cms-dev.s3.eu-central-1.amazonaws.com/small_article-image2_5d2262a3fe_ba31def413.jpeg"
-      }
-    },
-    "provider": "aws-s3",
-    "related": [
-      
-    ],
-    "createdAt": "2020-05-11T00:24:50.619Z",
-    "updatedAt": "2020-08-04T11:54:53.385Z",
-    "__v": 0,
-    "id": "5eb89b520e79a21caf96f709"
-  },
   "id": "5ea8c869d7c5de203463948e"
 }
